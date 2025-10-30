@@ -34,7 +34,7 @@
 - **MCTS (Monte Carlo Tree Search)** 기반 확률적 탐색 전략 적용
 
 ### 🔴 고난이도 에이전트
-- **AlphaZero 구조(DenseNet + MCTS)** 기반 강화학습 모델 설계 및 학습
+- **AlphaZero 구조(ResNet + MCTS)** 기반 강화학습 모델 설계 및 학습
 - 정책 신경망 및 가치 신경망 동시 학습을 통한 고수준 의사결정 수행
 
 ### ⚡ 성능 개선
